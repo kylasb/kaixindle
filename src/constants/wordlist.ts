@@ -101,6 +101,8 @@ export const WORDS = [
 'minor',
 'rides', 
 'passe',
+'stare',
+'stole',
 ]
 
 if (CONFIG.normalization) {
