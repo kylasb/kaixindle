@@ -9,7 +9,7 @@ export const CONFIG = {
   googleAnalytics: '', // You can use this if you use Google Analytics
   shuffle: false, // whether to shuffle the words in the wordlist each time you load the app (note: you will lose the 'word of the day' functionality if this is true)
   normalization: 'NFC', // whether to apply Unicode normalization to words and orthography - options: 'NFC', 'NFD', 'NKFC', 'NKFD', false
-  startDate: 'March 19, 2022 00:00:00', // what date and time to start your game from
+  startDate: 'March 18, 2022 00:00:00', // what date and time to start your game from
   defaultLang: 'en', // the default interface language
   availableLangs: ['en', 'es'], // the options available to the user for translation languages
 }
